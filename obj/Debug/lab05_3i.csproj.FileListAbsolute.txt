@@ -1,0 +1,17 @@
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\bin\Debug\lab05_3i.exe.config
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\bin\Debug\lab05_3i.exe
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\bin\Debug\lab05_3i.pdb
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.csproj.AssemblyReference.cache
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.Form1.resources
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.Properties.Resources.resources
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.csproj.GenerateResource.cache
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.csproj.CoreCompileInputs.cache
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.exe
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.pdb
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.signup.resources
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.login.resources
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\bin\Debug\DB_Server1.mdf
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\bin\Debug\DB_Server1_log.ldf
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.team.resources
+C:\Users\dilshan\source\repos\lab05_3i\lab05_3i\obj\Debug\lab05_3i.Menuform.resources
